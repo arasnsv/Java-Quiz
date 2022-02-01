@@ -48,3 +48,8 @@ A. light
 B. humble
 C. gentle
 a
+Not visible
+A. open
+B. hidden
+C. obtuse
+b
